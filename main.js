@@ -1,11 +1,12 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
-var config = {
-  apiKey: "xxxxx",
-  authDomain: "xxxxx",
-  databaseURL: "xxxxx",
-  projectId: "xxxxx",
-  storageBucket: "xxxxx",
-  messagingSenderId: "xxxxx"
+var firebaseConfig = {
+    apiKey: "AIzaSyAx5Jmgk3fC9XI8jwPa2RnSed_GX-DH0_g",
+    authDomain: "gestion-qcm.firebaseapp.com",
+    databaseURL: "https://gestion-qcm.firebaseio.com",
+    projectId: "gestion-qcm",
+    storageBucket: "gestion-qcm.appspot.com",
+    messagingSenderId: "448248783751",
+    appId: "1:448248783751:web:cd453ef7071dff0e"
 };
 firebase.initializeApp(config);
 

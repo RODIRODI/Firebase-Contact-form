@@ -1,5 +1,5 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
-var firebaseConfig = {
+var config = {
     apiKey: "AIzaSyAx5Jmgk3fC9XI8jwPa2RnSed_GX-DH0_g",
     authDomain: "gestion-qcm.firebaseapp.com",
     databaseURL: "https://gestion-qcm.firebaseio.com",

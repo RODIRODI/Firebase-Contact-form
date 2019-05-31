@@ -1,12 +1,12 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 var config = {
-    apiKey: "AIzaSyAx5Jmgk3fC9XI8jwPa2RnSed_GX-DH0_g",
-    authDomain: "gestion-qcm.firebaseapp.com",
-    databaseURL: "https://gestion-qcm.firebaseio.com",
-    projectId: "gestion-qcm",
-    storageBucket: "gestion-qcm.appspot.com",
-    messagingSenderId: "448248783751",
-    appId: "1:448248783751:web:cd453ef7071dff0e"
+    apiKey: "AIzaSyADl7kIMdmFdmGaGDATWLLIaw5ZHnkqRgo",
+    authDomain: "fir-contact-form-89138.firebaseapp.com",
+    databaseURL: "https://fir-contact-form-89138.firebaseio.com",
+    projectId: "fir-contact-form-89138",
+    storageBucket: "fir-contact-form-89138.appspot.com",
+    messagingSenderId: "823419429910",
+    appId: "1:823419429910:web:a49190d76d2e44d0"
 };
 firebase.initializeApp(config);
 
